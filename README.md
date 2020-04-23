@@ -8,7 +8,7 @@
 <br>
 
 ## About
-Challenges proposed in #QuarentenaDev by [Alura](https://github.com/alura-cursos)
+Challenges proposed in #QuarentenaDados by [Alura](https://github.com/alura-cursos)
 
 ## Datasets
 - Base with [Movie Lens titles and genres](https://raw.githubusercontent.com/dmAlbuquerque/data-science-starting/master/datasets/ml-latest-small/movies.csv);
